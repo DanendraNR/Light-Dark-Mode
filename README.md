@@ -26,4 +26,4 @@ Saat berjalan di Android 10 (API level 29) dan yang lebih tinggi , opsi yang dis
 - Gelap
 - Default sistem (opsi default yang disarankan)
 
-# Features
+# Fitur
