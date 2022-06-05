@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Light &amp; Dark Mode</string>
+    <string name="drawer_menu">drawer_menu</string>
+    <string name="google_play">Google Play</string>
+    <string name="apps_button">APPS</string>
+    <string name="games_button">GAMES</string>
+    <string name="movies_tv"><![CDATA[MOVIES & TV]]></string>
+    <string name="books_button">BOOKS</string>
+    <string name="music_button">MUSIC</string>
+    <string name="news_button">NEWS</string>
+    <string name="popular_apps_games">Popular Apps + Games</string>
+    <string name="more_button">MORE</string>
+    <string name="new_update_game">New + Update Game</string>
+    <string name="mobile_legends_bang_bang">Mobile Legends: Bang Bang</string>
+    <string name="mobile_legends_nbang_bang">Mobile Legends:\nBang Bang</string>
+    <string name="clash_of_clans">Clash of Clans</string>
+    <string name="pubg_mobile">PUBG MOBILE</string>
+    <string name="minecraft">Minecraft</string>
+    <string name="stumble_guys">Stumble Guys</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="dana">DANA</string>
+    <string name="tiktok">TikTok</string>
+    <string name="instagram">Instagram</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="mode">Day</string>
+
+</resources>
