@@ -27,3 +27,7 @@ Saat berjalan di Android 10 (API level 29) dan yang lebih tinggi , opsi yang dis
 - Default sistem (opsi default yang disarankan)
 
 # Fitur
+1. Mode gelap & terang itu sendiri.
+2. Tambahan efek saat user menekan salah satu tombol. (Ripple Effect)
+3. Dark Mode Toggle. (Terletak di bagian drawer menu button)
+4. Penyesuaian warna pada status & navigation bar.
